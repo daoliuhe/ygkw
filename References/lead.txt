@@ -1,0 +1,19 @@
+developing and implementing procedures, generating project plans and reports, 
+design goals, draft technical report, 
+deliver an end to end pipeline based on open sourced software for a scalable system
+superior design adn analytical capabilities, innovative problem solving skills, 
+data-driven, focus on results and manage workload to meet deadlines
+MySQL, PostgreSQL, parallelization and concurrency
+build data pipeline
+open source ML framework
+application and infrastructure
+build classification models
+responsible for
+work on uncurate and unstructures data
+model generation, evaluation, and validation for classification, scoring, ranking problems
+passionate about data vilsualization, documentationm and presentation
+conceptualized, architected and implemented an end to end platform
+Work cross functionally to define problem statements, collect data, build analytical models and make recommendations
+database, aws cloud service
+from identified data sources to database, db schema
+
